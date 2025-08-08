@@ -1,3 +1,6 @@
+#Implementing Queue using two stacks
+# 1st stack is input stack and 2nd stack is output stack
+# we will be working on these both stacks to implement queues
 class MyQueue:
 
     def __init__(self):
